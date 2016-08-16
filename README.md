@@ -12,3 +12,5 @@ https://fortawesome.com/sets/octicons - Cool icon set from Font Awesome
 http://fontawesome.io/icons/ - The original Font Awesome Icons (has a CDN)
 
 https://laracasts.com - Brilliant resource for learning Laravel
+
+https://www.maxcdn.com/ - All the CDNs
